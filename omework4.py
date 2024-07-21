@@ -1,0 +1,6 @@
+#my_string = input("Введите своё имя: ")
+#print("Моя строка".replace(" ",""))
+#print("Моя строка"[0])
+#print("Моя строка"[-1])
+my_string = input("Приветствую вас: ")
+print(len("my_string"))
